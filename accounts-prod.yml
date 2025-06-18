@@ -2,7 +2,7 @@ build:
   version: "3.0"
 
 accounts:
-  message: "Welcome to Bank accounts related PRODUCTION APIs"
+  message: "Welcome to Bank accounts related PRODUCTION APIs xx"
   contactDetails:
     name: "juan david"
     email: "{cipher}0b73b9f3f3307f639bd2ee81e243cc7b1b9adb48af04f36449cde52cf2b5676dc0656a95d42301296f16ad18a6b11be1"
