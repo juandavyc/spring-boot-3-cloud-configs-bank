@@ -2,7 +2,7 @@ build:
   version: "3.0"
 
 cards:
-  message: "Welcome to Bank cards related DEV x APIs"
+  message: "Welcome to Bank cards related DEV webhook APIs"
   contactDetails:
     name: "juan david"
     email: "dev@juandavyc.com"
